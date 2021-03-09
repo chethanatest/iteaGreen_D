@@ -1,0 +1,16 @@
+IsDeviceComform - bool
+
+isUserLogin -bool
+idCollector - int
+
+   CollectorName, -string
+   Email,-string
+      xaz - string
+
+   rootID-int
+   rootName-string
+   JobID-int
+   IsActiveJob-bool
+
+
+   isSoundOn=false
